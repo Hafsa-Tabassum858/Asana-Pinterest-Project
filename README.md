@@ -51,9 +51,9 @@ The system was built to simulate real-world project governance and performance t
 ## 📸 Screenshots
 (Add your images inside a folder named `screenshots`)
 
-![Asana Workflow](screenshots/asana_dashboard.png)
-![KPI Dashboard](screenshots/pinterest_analysis.png)
-![Workflow Overview](screenshots/workflow_overview.png)
+![image alt](https://github.com/Hafsa-Tabassum858/Asana-Pinterest-Project/blob/main/Asana_workflow.png)
+![image alt](https://github.com/Hafsa-Tabassum858/Asana-Pinterest-Project/blob/main/kpi_dashboard.png)
+![image alt](https://github.com/Hafsa-Tabassum858/Asana-Pinterest-Project/blob/main/pinterest%20performance%20automation.png)
 
 ---
 
